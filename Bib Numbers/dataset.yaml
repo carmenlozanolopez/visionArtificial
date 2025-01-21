@@ -1,0 +1,5 @@
+train: "/Users/carmenlozanolopez/Library/CloudStorage/OneDrive-UniversidadLoyolaAndalucía/VA/trabajo4/Bib Numbers/images/train"
+val: "/Users/carmenlozanolopez/Library/CloudStorage/OneDrive-UniversidadLoyolaAndalucía/VA/trabajo4/Bib Numbers/images/valid"
+
+nc: 1 # Número total de clases
+names: ["Numbers"]  # Lista de nombres de clases
