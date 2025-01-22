@@ -3,6 +3,12 @@
 ## Descripción del Proyecto
 El propósito de este proyecto es desarrollar un sistema para la detección de dorsales en fotografías tomadas durante carreras. Actualmente, muchas competiciones publican imágenes de forma pública, permitiendo que cualquiera pueda acceder a ellas. Este sistema pretende limitar el acceso a las imágenes, de forma que los usuarios puedan acceder únicamente a las fotos en las que aparecen ellos mismos.
 
+## Diferentes Aplicaciones
+Este sistema se puede aplicar en otros casos parecidos como:
+- **Reconocimiento de matrículas**
+- **Gestión de eventos**: Identificando los asistentes a través de credenciales con números
+- **Automatización de procesos industriales**: Identificando productos o componentes con números de serie
+
 ## Tecnologías Utilizadas
 - **Lenguajes de programación**: 
   - Python
@@ -23,9 +29,3 @@ El propósito de este proyecto es desarrollar un sistema para la detección de d
 1. Carga las imágenes de la carrera en la carpeta correspondiente.
 2. Ejecuta el script para procesar las imágenes y detectar los dorsales.
 3. Los resultados se almacenarán en una carpeta designada, con acceso controlado según los dorsales detectados.
-
-## Contribuciones
-Actualmente, no se requieren contribuciones para este proyecto.
-
-## Contacto
-Para cualquier consulta o sugerencia relacionada con el proyecto, no dudes en ponerte en contacto con el propietario del repositorio.
